@@ -1,0 +1,12 @@
+member: admin teacher student
+forum: message 
+lesson meet live video
+
+change : 
+LastName -> Last name
+'-' -> '_' (class,id)
+ <td class="change_table edit"><img src="../../img/admin/edit.png" alt=""><img class="confim_table_changes" src="../../img/admin/confirm.png"></td>
+            <td class="change_table delete"><img src="../../img/admin/delete.png" alt=""><img class="confim_table_changes" src="../../img/admin/confirm.png"></td>
+
+
+language:

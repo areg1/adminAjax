@@ -1,0 +1,31 @@
+#data_table {
+    width: 99.7%;
+    border-collapse: collapse;
+    margin-bottom: 100px;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+#data_table, #data_table tr, #data_table td {
+    border: 1px solid rgb(20, 20, 20);
+}
+#data_table td {
+    height: 40px;
+}
+#table_categorys {
+    font-weight: bold;
+    font-size: 12px;
+}
+#data_table img {
+    width: 25px;
+    cursor: pointer;
+}
+.confim_table_changes {
+    cursor: pointer;
+}
+#data_table td input[type="text"] {
+    max-width: 137px;
+    border: none;
+    background: rgb(255, 255, 255);
+    font-size: 12px;
+    padding: 2px !important;
+}
